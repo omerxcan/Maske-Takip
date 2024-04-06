@@ -1,0 +1,11 @@
+C:\Users\omer\OneDrive\Masaüstü\ETicaret\MaskeTakip\Entities\bin\Debug\net5.0\Entities.deps.json
+C:\Users\omer\OneDrive\Masaüstü\ETicaret\MaskeTakip\Entities\bin\Debug\net5.0\Entities.dll
+C:\Users\omer\OneDrive\Masaüstü\ETicaret\MaskeTakip\Entities\bin\Debug\net5.0\Entities.pdb
+C:\Users\omer\OneDrive\Masaüstü\ETicaret\MaskeTakip\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omer\OneDrive\Masaüstü\ETicaret\MaskeTakip\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\omer\OneDrive\Masaüstü\ETicaret\MaskeTakip\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\omer\OneDrive\Masaüstü\ETicaret\MaskeTakip\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\omer\OneDrive\Masaüstü\ETicaret\MaskeTakip\Entities\obj\Debug\net5.0\Entities.dll
+C:\Users\omer\OneDrive\Masaüstü\ETicaret\MaskeTakip\Entities\obj\Debug\net5.0\refint\Entities.dll
+C:\Users\omer\OneDrive\Masaüstü\ETicaret\MaskeTakip\Entities\obj\Debug\net5.0\Entities.pdb
+C:\Users\omer\OneDrive\Masaüstü\ETicaret\MaskeTakip\Entities\obj\Debug\net5.0\ref\Entities.dll
